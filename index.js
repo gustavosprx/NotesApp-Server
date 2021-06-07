@@ -23,7 +23,7 @@ app.use('/api/auth',authRoutes)
 app.use('/api/notes',notesRoutes)
 
 //puerto de la app
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 3001;
 
 // App escucha el puerto 
 app.listen(PORT,() => {
