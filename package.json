@@ -18,5 +18,14 @@
   },
   "author": "Gustavo Romero",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavosprx/NotesApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gustavosprx/NotesApp/issues"
+  },
+  "homepage": "https://github.com/gustavosprx/NotesApp#readme",
   "description": ""
 }
