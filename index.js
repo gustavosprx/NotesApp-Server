@@ -1,8 +1,8 @@
 const express = require('express');
 const dbConnection = require('./config/db')
-const usersRoutes = require('../server/routes/usersRoutes')
-const authRoutes = require('../server/routes/authRoutes')
-const notesRoutes = require('../server/routes/notesRoutes')
+const usersRoutes = require('./routes/usersRoutes')
+const authRoutes = require('./routes/authRoutes')
+const notesRoutes = require('./routes/notesRoutes')
 const cors = require('cors')
 
 const app = express()
